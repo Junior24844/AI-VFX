@@ -1,0 +1,33 @@
+{
+  "name": "new",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.11.0",
+    "axios": "^1.10.0",
+    "form-data": "^4.0.3",
+    "formidable": "^3.5.4",
+    "ioredis": "^5.6.1",
+    "lucide-react": "^0.525.0",
+    "next": "15.3.4",
+    "next-auth": "^4.24.11",
+    "prisma": "^6.11.0",
+    "react-icons": "^5.5.0",
+    "redis": "^5.5.6",
+    "stripe": "^18.3.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4.1.11",
+    "autoprefixer": "^10.4.0",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.4",
+    "postcss": "^8.4.0",
+    "tailwindcss": "^4.1.11"
+  }
+}
