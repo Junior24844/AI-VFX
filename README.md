@@ -20,8 +20,11 @@ https://github.com/user-attachments/assets/9b2813d1-6abf-496e-961e-e9014aab31c2
 ## Tech Stack
 
 Muapi - AI VFX API
+
 Next.js 15 - React framework
+
 OpenAI - GPT-4o-mini
+
 Vercel - Deployment
 
 ## Deploy
