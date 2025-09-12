@@ -34,3 +34,7 @@ Vercel - Deployment
 ## 🔗 Live Demo
 
 🎬 Try it now: [https://video-generator-three-kappa.vercel.app/](https://video-generator-three-kappa.vercel.app/)
+
+## VFX API
+
+https://muapi.ai/playground/vfx
